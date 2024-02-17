@@ -19,7 +19,7 @@ https://ieeexplore.ieee.org/document/10254962
 
 ## Acknowledgments
 
-The presentation is based on [PKU's template](https://www.overleaf.com/latex/templates/bei-da-zhong-wen-mo-ban-pku-beamer-template/kfxpbtzrqhrn), created by [Yifan He](https://y1fanhe.github.io)
+The presentation is based on [PKU's template](https://www.overleaf.com/latex/templates/bei-da-zhong-wen-mo-ban-pku-beamer-template/kfxpbtzrqhrn), created by [Zhuming Shi](https://shizhuming.github.io)
 
 Released under Creative Commons CC BY 4.0
 
