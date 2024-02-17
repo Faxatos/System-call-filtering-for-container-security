@@ -19,10 +19,10 @@ https://ieeexplore.ieee.org/document/10254962
 
 ## Acknowledgments
 
-Created by [Yifan He](https://y1fanhe.github.io) based on [PKU's template](https://www.overleaf.com/latex/templates/bei-da-zhong-wen-mo-ban-pku-beamer-template/kfxpbtzrqhrn)
+The presentation is based on [PKU's template](https://www.overleaf.com/latex/templates/bei-da-zhong-wen-mo-ban-pku-beamer-template/kfxpbtzrqhrn), created by [Yifan He](https://y1fanhe.github.io)
 
 Released under Creative Commons CC BY 4.0
 
 ## License
 
-Distributed under Creative Commons CC BY 4.0. See `LICENSE.txt` for more information.
+Distributed under Creative Commons Zero v1.0 Universal. See `LICENSE.txt` for more information.
